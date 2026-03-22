@@ -1,2 +1,10 @@
-# zenn-content
-Zenn articles by 原田賢治 | https://nands.tech
+# Zenn Content
+
+[Zenn](https://zenn.dev/kenji_harada) に投稿する記事を管理するリポジトリです。
+
+## Setup
+
+```bash
+npm install zenn-cli
+npx zenn preview
+```

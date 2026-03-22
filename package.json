@@ -1,0 +1,9 @@
+{
+  "name": "zenn-content",
+  "private": true,
+  "description": "Zenn articles by kenji_harada",
+  "scripts": {
+    "preview": "npx zenn preview",
+    "new:article": "npx zenn new:article"
+  }
+}
